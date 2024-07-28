@@ -6,8 +6,10 @@ AI & Big Data Engineer Intern
 
 I am currently pursuing an internship as an AI & Big Data Engineer. My journey into the world of technology has been driven by a deep fascination with artificial intelligence and data science. I have developed a solid foundation in AI methodologies and big data technologies, which I continually expand through hands-on projects and research.
 
-* 🌍  I'm based in RABAT
-* ✉️  You can contact me at [medberrhazi@gmail.com](mailto:medberrhazi@gmail.com)
+* 🌍  I'm based in RABAT
+* ✉️  You can contact me at [medberrhazi@gmail.com](mailto:medberrhazi@gmail.com)
+* 🚀  I'm currently working on [Bank-Customer-Churn](http://github.com/STALPHA2708/Bank-Customer-Churn)
+* 🧠  I'm learning Neural Networks and Deep Learning
 
 ### Skills
 
