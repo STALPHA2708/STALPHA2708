@@ -8,7 +8,7 @@ I am currently pursuing an internship as an AI & Big Data Engineer. My journey i
 
 * 🌍  I'm based in RABAT
 * ✉️  You can contact me at [medberrhazi@gmail.com](mailto:medberrhazi@gmail.com)
-* 🚀  I'm currently working on [Bank-Customer-Churn](http://github.com/STALPHA2708/Bank-Customer-Churn)
+* 🚀  I'm currently working on [Translation from english to darija](http://github.com/STALPHA2708/Bank-Customer-Churn)
 * 🧠  I'm learning Neural Networks and Deep Learning
 
 ### Skills
